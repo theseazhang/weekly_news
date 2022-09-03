@@ -5,3 +5,7 @@
 1. 方便自己日后回顾，有需要时可以全文检索。
 
 2. 如果能有所传播，可以结交志同道合的朋友。
+
+## 2022年
+
+- [第1期](https://github.com/theseazhang/weekly_news/blob/main/001.md) 001@2022.09.03
