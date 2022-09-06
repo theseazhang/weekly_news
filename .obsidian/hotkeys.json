@@ -1,1 +1,10 @@
-{}
+{
+  "copy-as-html:copy-as-html-command": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ]
+}
