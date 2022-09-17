@@ -9,3 +9,5 @@
 ## 2022年
 
 - [第1期](https://github.com/theseazhang/weekly_news/blob/main/001.md) 001@2022.09.03
+- [第2期](https://github.com/theseazhang/weekly_news/blob/main/002.md) 001@2022.09.03
+- [第3期](https://github.com/theseazhang/weekly_news/blob/main/003.md) 001@2022.09.03
