@@ -25,3 +25,4 @@
 - [第3期](https://github.com/theseazhang/weekly_news/blob/main/003.md) 
 - [第4期](https://github.com/theseazhang/weekly_news/blob/main/004.md) 
 - [第5期](https://github.com/theseazhang/weekly_news/blob/main/005.md) 
+- [第6期](https://github.com/theseazhang/weekly_news/blob/main/006.md)
