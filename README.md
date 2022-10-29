@@ -31,3 +31,5 @@
 
 - [第8期 2022年10月22日](https://github.com/theseazhang/weekly_news/blob/main/008.md)
 
+- [第9期 2022年10月29日](https://github.com/theseazhang/weekly_news/blob/main/009.md)
+
