@@ -1,10 +1,12 @@
-这里记录每周我所见所思，有用有趣的，择其要点而记录。
+## 这是啥
+
+这里记录每周我所见所思，有用有趣之处，择其要点而记录。
 
 目的：
 
-1. 方便自己日后回顾，有需要时可以全文检索。
+1、 方便自己日后回顾，有需要时可以全文检索。
 
-2. 如果能有所传播，可以结交志同道合的朋友。
+2、如果能有所传播，可以结交志同道合的朋友。
 
 ## 我是谁
 
@@ -12,24 +14,30 @@
 
 技术栈：
 
-- 用Aardio开发windows桌面软件，擅长爬虫和自动化。
-- 后端：Python的flask框架，openresty和一点点lua
-- 前端：简单的html+css，目前在学习tailwind css和vue3
+- 用 Aardio 开发 Windows 桌面软件，主要是爬虫和自动化。
+- 后端：Python 的 flask 框架，Openresty 和一点点 Lua 。
+- 前端：简单的 html + CSS ，目前在学习 Tailwind CSS 和 React 。
 
-如有沟通与合作，请发邮件到 **534929089@qq.com**
+如有沟通与合作，请发邮件到 **Dylanzhangdev#outlook.com**
 
-## 2022年
+## 2022 年
 
-- [第1期](https://github.com/theseazhang/weekly_news/blob/main/001.md) 
-- [第2期](https://github.com/theseazhang/weekly_news/blob/main/002.md) 
-- [第3期](https://github.com/theseazhang/weekly_news/blob/main/003.md) 
-- [第4期](https://github.com/theseazhang/weekly_news/blob/main/004.md) 
-- [第5期](https://github.com/theseazhang/weekly_news/blob/main/005.md) 
-- [第6期](https://github.com/theseazhang/weekly_news/blob/main/006.md)
+- [第 1 期](https://github.com/theseazhang/weekly_news/blob/main/001.md)
 
-- [第7期](https://github.com/theseazhang/weekly_news/blob/main/007.md)
+- [第 2 期](https://github.com/theseazhang/weekly_news/blob/main/002.md)
 
-- [第8期 2022年10月22日](https://github.com/theseazhang/weekly_news/blob/main/008.md)
+- [第 3 期](https://github.com/theseazhang/weekly_news/blob/main/003.md)
 
-- [第9期 2022年10月29日](https://github.com/theseazhang/weekly_news/blob/main/009.md)
+- [第 4 期](https://github.com/theseazhang/weekly_news/blob/main/004.md)
 
+- [第 5 期](https://github.com/theseazhang/weekly_news/blob/main/005.md)
+
+- [第 6 期](https://github.com/theseazhang/weekly_news/blob/main/006.md)
+
+- [第 7 期](https://github.com/theseazhang/weekly_news/blob/main/007.md)
+
+- [第 8 期 2022 年 10 月 22 日](https://github.com/theseazhang/weekly_news/blob/main/008.md)
+
+- [第 9 期 2022 年 10 月 29 日](https://github.com/theseazhang/weekly_news/blob/main/009.md)
+
+- [第 10 期 2022 年 11 月 05 日](https://github.com/theseazhang/weekly_news/blob/main/010.md)
