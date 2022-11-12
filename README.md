@@ -41,3 +41,5 @@
 - [第 9 期 2022 年 10 月 29 日](https://github.com/theseazhang/weekly_news/blob/main/009.md)
 
 - [第 10 期 2022 年 11 月 05 日](https://github.com/theseazhang/weekly_news/blob/main/010.md)
+
+- [第 11 期 2022 年 11 月 12 日](https://github.com/theseazhang/weekly_news/blob/main/011.md)
