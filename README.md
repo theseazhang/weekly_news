@@ -22,19 +22,19 @@
 
 ## 2022 年
 
-- [第 1 期](https://github.com/theseazhang/weekly_news/blob/main/001.md)
+- [第 1 期 2022 年 09 月 03 日](https://github.com/theseazhang/weekly_news/blob/main/001.md)
 
-- [第 2 期](https://github.com/theseazhang/weekly_news/blob/main/002.md)
+- [第 2 期 2022 年 09 月 10 日](https://github.com/theseazhang/weekly_news/blob/main/002.md)
 
-- [第 3 期](https://github.com/theseazhang/weekly_news/blob/main/003.md)
+- [第 3 期 2022 年 09 月 17 日](https://github.com/theseazhang/weekly_news/blob/main/003.md)
 
-- [第 4 期](https://github.com/theseazhang/weekly_news/blob/main/004.md)
+- [第 4 期 2022 年 09 月 25 日](https://github.com/theseazhang/weekly_news/blob/main/004.md)
 
-- [第 5 期](https://github.com/theseazhang/weekly_news/blob/main/005.md)
+- [第 5 期 2022 年 10 月 01 日](https://github.com/theseazhang/weekly_news/blob/main/005.md)
 
-- [第 6 期](https://github.com/theseazhang/weekly_news/blob/main/006.md)
+- [第 6 期 2022 年 10 月 08 日](https://github.com/theseazhang/weekly_news/blob/main/006.md)
 
-- [第 7 期](https://github.com/theseazhang/weekly_news/blob/main/007.md)
+- [第 7 期 2022 年 10 月 15 日](https://github.com/theseazhang/weekly_news/blob/main/007.md)
 
 - [第 8 期 2022 年 10 月 22 日](https://github.com/theseazhang/weekly_news/blob/main/008.md)
 
@@ -45,3 +45,5 @@
 - [第 11 期 2022 年 11 月 12 日](https://github.com/theseazhang/weekly_news/blob/main/011.md)
 
 - [第 12 期 2022 年 11 月 19 日](https://github.com/theseazhang/weekly_news/blob/main/012.md)
+
+- [第 13 期 2022 年 11 月 26 日](https://github.com/theseazhang/weekly_news/blob/main/013.md)
