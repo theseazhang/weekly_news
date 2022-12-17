@@ -18,7 +18,7 @@
 - 后端：Python 的 flask 框架，Openresty 和一点点 Lua 。
 - 前端：简单的 html + CSS ，目前在学习 Tailwind CSS 和 React 。
 
-如有沟通与合作，请发邮件到 **Dylanzhangdev#outlook.com**
+如有沟通与合作，请发邮件到 **dylanzhangdev#outlook.com**
 
 ## 2022 年
 
@@ -51,3 +51,5 @@
 - [第 14 期 2022 年 12 月 03 日](https://github.com/theseazhang/weekly_news/blob/main/014.md)
 
 - [第 15 期 2022 年 12 月 10 日](https://github.com/theseazhang/weekly_news/blob/main/015.md)
+
+- [第 16 期 2022 年 12 月 17 日](https://github.com/theseazhang/weekly_news/blob/main/016.md)
