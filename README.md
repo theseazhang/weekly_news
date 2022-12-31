@@ -55,3 +55,5 @@
 - [第 16 期 2022 年 12 月 17 日](https://github.com/theseazhang/weekly_news/blob/main/016.md)
 
 - [第 17 期 2022 年 12 月 24 日](https://github.com/theseazhang/weekly_news/blob/main/017.md)
+
+- [第 18 期 2022 年 12 月 31 日](https://github.com/theseazhang/weekly_news/blob/main/018.md)
