@@ -69,3 +69,5 @@
 - [第 21 期 2023 年 01 月 21 日](https://github.com/theseazhang/weekly_news/blob/main/021.md)
 
 - [第 22 期 2023 年 01 月 28 日](https://github.com/theseazhang/weekly_news/blob/main/022.md)
+
+- [第 23 期 2023 年 02 月 04 日](https://github.com/theseazhang/weekly_news/blob/main/023.md)
