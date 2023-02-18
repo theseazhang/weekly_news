@@ -12,17 +12,15 @@
 
 ## 我是谁
 
-沧海，现居福建厦门，独立软件开发者。
+沧海，现居福建厦门，独立软件开发者/全栈开发/前端开发。
 
-技术栈：
-
-- 用 Aardio 开发 Windows 桌面软件，主要是爬虫和自动化。
-- 后端：Python 的 flask 框架，Openresty 和一点点 Lua 。
-- 前端：简单的 html + CSS ，目前在学习 Tailwind CSS 和 React 。
+技术栈：React | Next.js | Tailwind CSS | HTML/CSS | Python | Flask | SQL | Redis | Lua | Openresty
 
 如有沟通与合作，请发邮件到 **dylanzhangdev#outlook.com**
 
 ## 2023 年
+
+- [第 25 期 2023 年 02 月 18 日](https://github.com/theseazhang/weekly_news/blob/main/025.md)
 
 - [第 24 期 2023 年 02 月 11 日](https://github.com/theseazhang/weekly_news/blob/main/024.md)
 
