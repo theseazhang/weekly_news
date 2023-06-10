@@ -20,6 +20,8 @@
 
 ## 2023 年
 
+- [第 40 期 2023 年 06 月 10 日](https://github.com/theseazhang/weekly_news/blob/main/040.md)
+
 - [第 39 期 2023 年 06 月 03 日](https://github.com/theseazhang/weekly_news/blob/main/039.md)
 
 - [第 38 期 2023 年 05 月 27 日](https://github.com/theseazhang/weekly_news/blob/main/038.md)
