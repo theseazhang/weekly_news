@@ -18,7 +18,18 @@
 
 如有沟通与合作，请发邮件到 **dylanzhangdev#outlook.com**
 
+## 最近更新
+
+周报发布已迁移到[seazhang.com/weekly-news](https://www.seazhang.com/weekly-news)网站上面，以后都在那边更新。
+
+主要原因：
+
+- 文章排版更加美观一些
+- 支持全文搜索功能，可快捷搜索以往记录
+
 ## 2023 年
+
+- [第 45 期 2023 年 07 月 16 日](https://seazhang.com/weekly_news/045)
 
 - [第 44 期 2023 年 07 月 09 日](https://github.com/theseazhang/weekly_news/blob/main/044.md)
 
